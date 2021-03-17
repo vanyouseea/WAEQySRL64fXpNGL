@@ -22,8 +22,14 @@
 首先是你灵巧的双手  
 然后是环境:  
 ```
-pip install stem pySocket requests beautifulsoup4
+pip install stem pySocket requests beautifulsoup4 PySocks
 ```
+
+```
+apt install python-pip
+```
+
+
 ~~requirements.txt~~  
 ~~requirements 这辈子都没有的~~  
 
